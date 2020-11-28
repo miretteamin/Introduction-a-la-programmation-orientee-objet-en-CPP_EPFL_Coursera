@@ -1,0 +1,7 @@
+﻿  Using triplet "x86-windows" from "D:\vcpkg\installed\x86-windows\"
+  restaurant.cpp
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\restaurant\restaurant.cpp(83,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\restaurant\restaurant.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\restaurant\restaurant.cpp(95,21): warning C4018: '<': signed/unsigned mismatch
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\restaurant\restaurant.cpp(110,21): warning C4018: '<': signed/unsigned mismatch
+  restaurant.vcxproj -> D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Debug\restaurant.exe

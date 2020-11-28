@@ -1,0 +1,4 @@
+﻿  Using triplet "x86-windows" from "D:\vcpkg\installed\x86-windows\"
+  bateaux.cpp
+  bateaux.vcxproj -> D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Debug\bateaux.exe
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\bateaux\bateaux.cpp(42): warning C26812: The enum type 'Pavillon' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).

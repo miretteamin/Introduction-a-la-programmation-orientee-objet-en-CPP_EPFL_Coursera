@@ -1,0 +1,4 @@
+﻿  Using triplet "x64-windows" from "D:\vcpkg\installed\x64-windows\"
+  biblio.cpp
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\biblio\biblio.cpp(48,25): warning C4227: anachronism used: qualifiers on reference are ignored
+  biblio.vcxproj -> D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\x64\Debug\biblio.exe

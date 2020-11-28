@@ -1,0 +1,5 @@
+﻿  Using triplet "x64-windows" from "D:\vcpkg\installed\x64-windows\"
+  Test.cpp
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Test\Test.cpp(12,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Test.vcxproj -> D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\x64\Debug\Test.exe
+D:\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(85,5): warning MSB5021: Terminating the task executable "cmd" and its child processes because the build was canceled.

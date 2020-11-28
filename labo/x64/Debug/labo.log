@@ -1,0 +1,4 @@
+﻿  Using triplet "x64-windows" from "D:\vcpkg\installed\x64-windows\"
+  labo.cpp
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\labo\labo.cpp(22,108): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  labo.vcxproj -> D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\x64\Debug\labo.exe

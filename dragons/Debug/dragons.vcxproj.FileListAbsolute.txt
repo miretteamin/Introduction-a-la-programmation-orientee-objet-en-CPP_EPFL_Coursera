@@ -1,0 +1,2 @@
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Debug\dragons.exe.lastcodeanalysissucceeded
+D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\dragons\Debug\NativeCodeAnalysis.read.1.tlog
