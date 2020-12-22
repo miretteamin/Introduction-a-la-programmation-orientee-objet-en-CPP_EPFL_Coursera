@@ -1,8 +1,0 @@
-﻿  Using triplet "x86-windows" from "D:\vcpkg\installed\x86-windows\"
-  Test.cpp
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Test\Test.cpp(50,10): error C2039: 'h': is not a member of 'Car'
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Test\Test.cpp(32): message : see declaration of 'Car'
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Test\Test.cpp(50,16): error C2385: ambiguous access of 'honk'
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Test\Test.cpp(50,16): message : could be the 'honk' in base 'Car'
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Test\Test.cpp(50,16): message : or could be the 'honk' in base 'Boat'
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Test\Test.cpp(51,5): error C2143: syntax error: missing ';' before 'return'

@@ -1,2 +1,0 @@
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Debug\tirelire.exe.lastcodeanalysissucceeded
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\tirelire\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,6 +1,0 @@
-﻿  Using triplet "x86-windows" from "D:\vcpkg\installed\x86-windows\"
-  biblio.cpp
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\biblio\biblio.cpp(145,31): warning C4018: '<': signed/unsigned mismatch
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\biblio\biblio.cpp(155,31): warning C4018: '<': signed/unsigned mismatch
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\biblio\biblio.cpp(164,27): warning C4018: '<': signed/unsigned mismatch
-  biblio.vcxproj -> D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Debug\biblio.exe

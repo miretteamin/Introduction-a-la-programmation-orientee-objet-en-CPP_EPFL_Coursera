@@ -1,2 +1,0 @@
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\Debug\timbres.exe.lastcodeanalysissucceeded
-D:\miret\University\Courses & Trainings\EPFL Courses\Introduction a POO\timbres\Debug\NativeCodeAnalysis.read.1.tlog
